@@ -1,0 +1,1 @@
+csv compiled from the PMDA's Japanese Adverse Drug Event Report (JADER). https://www.info.pmda.go.jp/fukusayoudb/CsvDownload 
