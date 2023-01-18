@@ -1,1 +1,22 @@
 csv compiled from the PMDA's Japanese Adverse Drug Event Report (JADER). https://www.info.pmda.go.jp/fukusayoudb/CsvDownload 
+
+https://www.pmda.go.jp/safety/info-services/drugs/adr-info/suspected-adr/0004.html
+
+No.	CSV field name	reference
+E2B (R3) data items	E2B (R2) data items
+1	Identification number	J2.1	J.4
+2	Number of reports	－	J.5
+3	pharmaceutical serial number	－	－
+4	Involvement of pharmaceuticals	G.k.1	B.4.k.1
+5	Pharmaceuticals (generic name)	G.k.2.3.r.1	B.4.k.2.2
+6	Pharmaceuticals (brand name)	G.k.2.2	B.4.k.2.1
+7	route	G.k.4.r.10.1/G.k.4.r.10.2b	B.4.k.8
+8	Dosing start date	G.k.4.r.4	B.4.k.12
+9	End date of administration	G.k.4.r.5	B.4.k.14
+10	Dose	G.k.4.r.1a	B.4.k.5.1
+11	dosage unit	G.k.4.r.1b	B.4.k.5.2
+12	Number of divided doses	Set to "1" only if Gk4.r.1 has dosage	B.4.k.5.3
+13	Reason for use	G.k.7.r.1/G.k.7.r.2b	B.4.k.11b
+14	drug treatment	G.k.8	B.4.k.16
+15	Presence or absence of recurrence of readministration	G.k.9.i.4	B.4.k.17.1
+16	Risk classification, etc. (R3 only)	J2.5.k	－
