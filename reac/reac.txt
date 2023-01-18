@@ -1,0 +1,6 @@
+No.	CSV field name	reference
+E2B (R3) data items	E2B (R2) data items
+1	Identification number	J2.1	J.4
+2	Number of reports	-	J.5
+3	Primary disease serial number	-	-
+Four	Primary disease, etc.	D.7.1.r.1b	B.1.7.1a.2
