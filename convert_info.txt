@@ -1,0 +1,44 @@
+Converting drugs/drug202212-01.csv
+iconv: drugs/drug202212-01.csv:126995:83: cannot convert
+
+Converting drugs/drug202212-06.csv
+iconv: drugs/drug202212-06.csv:56223:110: cannot convert
+
+Converting drugs/drug202212-15.csv
+iconv: drugs/drug202212-15.csv:67430:146: cannot convert
+
+Converting drugs/drug202212-16.csv
+iconv: drugs/drug202212-16.csv:9711:107: cannot convert
+Converting drugs/drug202212-17.csv
+
+iconv: drugs/drug202212-17.csv:3186:631: cannot convert
+Converting drugs/drug202212-18.csv
+
+iconv: drugs/drug202212-18.csv:20041:171: cannot convert
+Converting drugs/drug202212-19.csv
+
+iconv: drugs/drug202212-19.csv:21260:548: cannot convert
+Converting drugs/drug202212-20.csv
+
+iconv: drugs/drug202212-20.csv:556:59: cannot convert
+Converting drugs/drug202212-21.csv
+
+iconv: drugs/drug202212-21.csv:20947:158: cannot convert
+Converting drugs/drug202212-22.csv
+
+iconv: drugs/drug202212-22.csv:689:121: cannot convert
+
+Converting drugs/drug202212-23.csv
+iconv: drugs/drug202212-23.csv:1500:149: cannot convert
+
+Converting drugs/drug202212-24.csv
+iconv: drugs/drug202212-24.csv:1077:408: cannot convert
+
+Converting drugs/drug202212-25.csv
+iconv: drugs/drug202212-25.csv:2338:111: cannot convert
+
+Converting drugs/drug202212-26.csv
+iconv: drugs/drug202212-26.csv:1060:131: cannot convert
+
+Converting drugs/drug202212-27.csv
+iconv: drugs/drug202212-27.csv:6863:255: cannot convert
